@@ -1,8 +1,6 @@
 Hola, soy Dani!
 Estoy interesado en gran parte del ámbito de la informática (ciberseguridad, redes, programación, inteligencia artificial...)
 
-Cada día mejor en el deporte 🏋️‍♂️🏀
-
 🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR) 
 
 👨‍💻 Futuro ingeniero informático
